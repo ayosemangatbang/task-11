@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Data Table</h2>
+
+<table>
+    <tr>
+        <th>Position</th>
+        <th>URL</th>
+        <th>Title</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td><a href="https://www.instagram.com/no_0.9akr//" target="_blank">Nike. Just Do It. Nike.com</a></td>
+        <td>. Nike.com</td>
+        <td>https://www.instagram.com/no_0.9akr Nike delivers innovative products, experiences and services to inspire athletes.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="https://www.instagram.com/no_0.9akr//nike/?hl=de" target="_blank">Nike (@nike) • Instagram photos and videos</a></td>
+        <td>Nike (@nike) • Instagram photos and videos</td>
+        <td>255m Followers, 147 Following, 1019 Posts - See Instagram photos and videos from Nike (@nike)</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href="https://www.tiktok.com/explore" target="_blank">Nike - Twitter</a></td>
+        <td>Nike - Twitter</td>
+        <td>Welcome to Nike FC. We're not a club. We're a community. If you love the game of football, you're a part of Nike FC. Let's change the game, ...</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><a href="https://en.wikipedia.org/wiki/Nike,_Inc." target="_blank">Nike, Inc. - Wikipedia</a></td>
+        <td>Nike, Inc. - Wikipedia</td>
+        <td>Nike, Inc is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, ...</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td><a href="https://www.youtube.com/user/nike" target="_blank">Nike - YouTube</a></td>
+        <td>Nike - YouTube</td>
+        <td>We will continue to stand up for equality and work to break down barriers for athletes* all over the world. We will do and invest more to uphold ...</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td><a href="https://www.footlocker.com/category/brands/nike.html" target="_blank">Nike Sneakers, Apparel, and Accessories - Foot Locker</a></td>
+        <td>Nike Sneakers, Apparel, and Accessories - Foot Locker</td>
+        <td>Shop the latest selection of Nike at Foot Locker. Find the hottest sneaker drops from brands like Jordan, Nike, Under Armour, ...</td>
+    </tr>
+</table>
+
+</body>
+</html>
